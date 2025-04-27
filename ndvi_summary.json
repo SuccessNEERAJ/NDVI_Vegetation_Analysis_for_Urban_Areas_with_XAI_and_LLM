@@ -1,0 +1,32 @@
+{
+    "Post-Monsoon": {
+        "mean": 0.2715,
+        "min": -0.0756,
+        "max": 0.6429,
+        "std_dev": 0.1306
+    },
+    "Monsoon": {
+        "mean": 0.1875,
+        "min": -0.1445,
+        "max": 0.67,
+        "std_dev": 0.1319
+    },
+    "Summer": {
+        "mean": 0.1911,
+        "min": -0.0423,
+        "max": 0.6629,
+        "std_dev": 0.0951
+    },
+    "Winter": {
+        "mean": 0.2914,
+        "min": -0.0724,
+        "max": 0.6551,
+        "std_dev": 0.1872
+    },
+    "Current NDVI": {
+        "mean": 0.238,
+        "min": -0.0396,
+        "max": 0.5461,
+        "std_dev": 0.1053
+    }
+}
